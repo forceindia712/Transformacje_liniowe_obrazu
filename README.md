@@ -1,0 +1,1 @@
+# Transformacje_liniowe_obrazu
